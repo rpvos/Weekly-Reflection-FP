@@ -64,11 +64,8 @@ test case RemoveShow: dependent on StartUp
 |close window|-|closes the window after all actions are done
 
 
-
-
-
-
 - table view automatisch data laten laden
+- fixed the saving so it saves as an json file format instead of a objectIO file
 
 
 ###week 4
