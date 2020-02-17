@@ -71,19 +71,30 @@ test case RemoveShow: dependent on StartUp
 
 ###week 4
 ####samenwerking
+deze week hebben we redelijk hard gewerkt.
+Arne en ik hebben de loader volledig af gekregen en lars heeft de json opslaan format opniew gemaakt want de gson die we eerst hadden mocht niet meer.
+Erwin heeft de agenda module nog getest en gebuggfixt.
+Ralf en Kasper hebben een deel van het laden van de json format van de map geprobeerd te maken maar dit ging te langzaam dus hadden Arne en ik het snel geprobeerd en dat werkte direct.
+dit kwam voornamelijk doordat ik alle opgaves van ogp en 2d graphics af had waardoor ik precies wist hoe je die subimages moest krijgen.
+Op de maandag had ik wel een ergering aan dat Kasper niet serieus meer kon werken richting het einde van de dag ook na meermaals zeggen van Arne.
 
 ####mijn bijdrage
+- klassendiagram voor de map loader gemaaakt
+![](Resources/TiledMap_Module_Class_Diagram.jpg)
+- code geschreven met arne om de map te laden en dit werkt volledig volgens het klasse diagram
+
 
 ## Logboek
 |datum|tijd|beschrijving|begintijd|eindtijd
 |---|---|---|---|---|
 |27-01-2020|5|Plan van aanpak, samenwerkingsontract en java codestyle guide geschreven|8:45|14:00
-|03-02-2020|8|skeleton gemaakt voor het project door middel van het klassen diagram, het klassen diagram geüpdate en planner en planner en stage inhoud gegevem|8:45|17:00
+|03-02-2020|8|initial commit naar github, skeleton gemaakt voor het project door middel van het klassen diagram te volgen, het klassen diagram geüpdate en planner en stage inhoud gegeven|8:45|17:00
 |05-02-2020|3|nieuw stylesheet gemaakt voor popups en het huidige stylesheet uitgebreid en een paar padding dingen veranderd|9:30|11:30
 |06-02-2020|3|json opslaan format geprobeerd te maken met arne maar het was niet gelukt|19:00|21:00
-|10-02-2020|8|projectdag|8:45|17:00
+|10-02-2020|6|projectdag|8:45|15:00
 |11-02-2020|1|json loading gemaakt|8:45|10:00
-
+|12-02-2020|2|reflectie verslag schrijven zoals in mijn rol als evaluator staat goed uit te voeren en het klsassendiagram bijwerken|10:00|12:00
+|17-02-2020|7|klassendiagram gemaakt voor map loader en de code hiervoor geschreven
 ##Stelling
 
 
