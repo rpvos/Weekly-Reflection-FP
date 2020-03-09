@@ -71,7 +71,7 @@ test case RemoveShow: dependent on StartUp
 
 ###week 4
 ####samenwerking
-deze week hebben we redelijk hard gewerkt.
+Deze week hebben we redelijk hard gewerkt.
 Arne en ik hebben de loader volledig af gekregen en lars heeft de json opslaan format opniew gemaakt want de gson die we eerst hadden mocht niet meer.
 Erwin heeft de agenda module nog getest en gebuggfixt.
 Ralf en Kasper hebben een deel van het laden van de json format van de map geprobeerd te maken maar dit ging te langzaam dus hadden Arne en ik het snel geprobeerd en dat werkte direct.
@@ -83,6 +83,20 @@ Op de maandag had ik wel een ergering aan dat Kasper niet serieus meer kon werke
 ![](Resources/TiledMap_Module_Class_Diagram.jpg)
 - code geschreven met arne om de map te laden en dit werkt volledig volgens het klasse diagram
 
+###week 5
+####samenwerking
+We hebben na het opstart college even verdeeld wie wat moet doen totdat we het tutor gesprek hadden.
+In het tutor gesprek 
+
+###week 6
+####samenwerking
+Na een zeer stroeve introductie bij de vergadering begonnen we goed te werken.
+we hebben durende de dag nog 2 vergaderingen gehouden om eventuele misverstanden te verkomen en te zorgen dat iedereen zijn taak goed uitvoert.
+####mijn bijdrage
+-klassendiagram geupdate
+![09-03-2020](Resources/Planner_Module_Class_Diagram.jpg)
+-klassendiagram gemaakt voor de disctancemap
+![09-03-2020](Resources/SimulatorLogic_Class_Diagram.jpg)
 
 ## Logboek
 |datum|tijd|beschrijving|begintijd|eindtijd
@@ -94,7 +108,11 @@ Op de maandag had ik wel een ergering aan dat Kasper niet serieus meer kon werke
 |10-02-2020|6|projectdag|8:45|15:00
 |11-02-2020|1|json loading gemaakt|8:45|10:00
 |12-02-2020|2|reflectie verslag schrijven zoals in mijn rol als evaluator staat goed uit te voeren en het klsassendiagram bijwerken|10:00|12:00
-|17-02-2020|7|klassendiagram gemaakt voor map loader en de code hiervoor geschreven
+|17-02-2020|6|klassendiagram gemaakt voor map loader en de code hiervoor geschreven|8:45|15:00
+|02-03-2020|6|pva afgemaakt|8:45|15:00
+|09-03-2020|4|klassendiagram geupdate naar nieuwste stable version, ik kwam er achter dat bij de vorige versies ik vergeten was de klasse viual tab te implementeren|8:45|13:45
+|09-03-2020|3|werken aan het maken van de distance map klassen diagram en dan de code|13:45|16:00
+
 ##Stelling
 
 
