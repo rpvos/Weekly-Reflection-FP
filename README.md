@@ -86,17 +86,23 @@ Op de maandag had ik wel een ergering aan dat Kasper niet serieus meer kon werke
 ###week 5
 ####samenwerking
 We hebben na het opstart college even verdeeld wie wat moet doen totdat we het tutor gesprek hadden.
-In het tutor gesprek 
+
 
 ###week 6
 ####samenwerking
 Na een zeer stroeve introductie bij de vergadering begonnen we goed te werken.
-we hebben durende de dag nog 2 vergaderingen gehouden om eventuele misverstanden te verkomen en te zorgen dat iedereen zijn taak goed uitvoert.
+We hebben durende de dag nog 2 vergaderingen gehouden om eventuele misverstanden te verkomen en te zorgen dat iedereen zijn taak goed uitvoert.
+Op de dinsdag hadden we afgesproken. Hier hebben we heel hard gewerkt. 
+Dit kwam voornamelijk doordat de tutor ons heeft wakker geschud.
+
 ####mijn bijdrage
--klassendiagram geupdate
+- klassendiagram geupdate
 ![09-03-2020](Resources/Planner_Module_Class_Diagram.jpg)
--klassendiagram gemaakt voor de disctancemap
+- klassendiagram gemaakt voor de disctancemap
 ![09-03-2020](Resources/SimulatorLogic_Class_Diagram.jpg)
+- veel code rond om het map inladen gemaakt. hierin hebben we meerdere lagen laden en meerdere spritesheets laden gemaakt.
+- geupdate klassendiagram na de updates rondom het inladen
+![10-03-2020](Resources/MapLoader_Class_Diagram-v2.jpg)
 
 ## Logboek
 |datum|tijd|beschrijving|begintijd|eindtijd
@@ -112,6 +118,7 @@ we hebben durende de dag nog 2 vergaderingen gehouden om eventuele misverstanden
 |02-03-2020|6|pva afgemaakt|8:45|15:00
 |09-03-2020|4|klassendiagram geupdate naar nieuwste stable version, ik kwam er achter dat bij de vorige versies ik vergeten was de klasse viual tab te implementeren|8:45|13:45
 |09-03-2020|3|werken aan het maken van de distance map klassen diagram en dan de code|13:45|16:00
+|10-03-2020|6|arne en ik hebben het laden van de map volledig revamped omdat we eerder maar een layer konden laden en een spritesheet en nu kunnen we meerdere layers laden en meerdere sprite sheets zolang. ook kunnen we nu niet vierkante mappen laden.| 10:20|15:00
 
 ##Stelling
 
