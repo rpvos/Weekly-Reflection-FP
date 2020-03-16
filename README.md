@@ -1,6 +1,6 @@
 # Portfolio
 
-[weekelijkse reflectie](Reflectie.md)
+[weekelijkse reflectie](Reflectie/Reflectie.md)
 
 [Logboek](Logboek.md)
 
