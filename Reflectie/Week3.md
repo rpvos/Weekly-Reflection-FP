@@ -10,6 +10,7 @@ een planning maakt.
 #### mijn bijdrage
 
 - klassendiagram bijgewerkt
+
   ![Klassen diagram week 3](../Resources/klassenDiagram_week3.png "Klassen
   diagram week 3")
 - test cases schrijven <br> test case StartUp:

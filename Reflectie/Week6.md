@@ -12,11 +12,14 @@ geschud.
 #### mijn bijdrage
 
 - klassendiagram geupdate
+
   ![09-03-2020](../Resources/Planner_Module_Class_Diagram.jpg)
 - klassendiagram gemaakt voor de disctancemap
+
   ![09-03-2020](../Resources/SimulatorLogic_Class_Diagram.jpg)
 - veel code rond om het map inladen gemaakt. hierin hebben we meerdere
   lagen laden en meerdere spritesheets laden gemaakt.
 - geupdate klassendiagram na de updates rondom het inladen
+
   ![10-03-2020](../Resources/MapLoader_Class_Diagram-v2.jpg)
   
