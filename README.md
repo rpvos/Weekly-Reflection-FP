@@ -1,8 +1,8 @@
 # Portfolio
 
-[Logboek](myLib/Logboek.md)
-
 [weekelijkse reflectie](Reflectie.md)
+
+[Logboek](Logboek.md)
 
 [Stelling](stelling.md)
 
