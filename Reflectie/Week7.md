@@ -13,6 +13,13 @@ Dit ging voornamelijk over hoe de camera werkte en hoe we die beter konden maken
 Hier heb ik de feedback over dit verslag te horen gekregen dat het uitgebreider moest zijn met meer keuze omschrijvingen.
 Na het gesprek kreeg ik de opdracht om het sequence diagram te maken voor de npc targeting.
 Dit was een moeilijk onderdeel want ik snapte van deze structuur niet veel want er was geen klassendiagram van dit deel gemaakt.
+
+#### mijn bijdrage
+
+- sequence diagram voor npc targeting
+
+![16-03-2020](../Resources/Sequence_Diagram_NPC_targeting.jpg "Sequence Diagram NPC targeting, 16-03-2020")
+```
 Ik heb het gemodeleerd op wat er gebeurt vanaf creatie, want hieruit kan je de meeste informatie halen.
 In de main word de methode spawn(int amount) opgeroepen om zoveel personen aan te maken.
 Dan in de constructor van de person klasse word er een genre gekozen en hierna word de personlogic aangemaakt die het genre gebruikt om een doel in te stellen.
@@ -20,12 +27,7 @@ Dit doet hij door een stage te zoeken met die genre.
 Daarna haalt hij de distancemap op en dan set hij de target voor de person.
 Dit target is een blokje weg.
 Als hij bij dit blokje aangekomen is ziet de personlogic dat en geeft hij een nieuw target.
-
-#### mijn bijdrage
-
-- sequence diagram voor npc tageting
-
-![16-03-2020](../Resources/Sequence_Diagram_NPC_targeting.jpg)
+```
 
 - pva verbeteren
 - comments en refactoring van de map code

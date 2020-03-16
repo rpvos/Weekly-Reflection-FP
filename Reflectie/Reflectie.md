@@ -1,5 +1,7 @@
 ## Reflectie
 
+hieronder staat per week verwoord hoe de samenwerking verliep en wat ik gedaan heb aan het project.
+
 [Week 2](Week2.md)
 
 [Week 3](Week3.md)
