@@ -136,7 +136,15 @@ geschud.
 - geupdate klassendiagram na de updates rondom het inladen
   ![10-03-2020](Resources/MapLoader_Class_Diagram-v2.jpg)
 
+###week 7
+####samenwerking 
+eerst een vergadering gehad met de projectleider die door gaf wat er besproken was en hoe we verder moeten.
+
+####mijn bijdrage
+
+
 ## Logboek
+|16-03-2020|6|vergadering gehad en erna bezig gegaan met alle code refactoren|9:30|16:00
 
 | datum      | tijd | beschrijving                                                                                                                                                                                                                                  | begintijd | eindtijd |
 |:-----------|:-----|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------|:---------|
