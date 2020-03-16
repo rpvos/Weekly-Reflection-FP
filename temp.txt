@@ -7,3 +7,6 @@ Schrijf er een betoog over of het klopt
 en trek het in twijfel
 
 packetsniffen op je pc welke programmas van json gebruik maken
+
+
+maak een sequence diagram voor npc targeting
