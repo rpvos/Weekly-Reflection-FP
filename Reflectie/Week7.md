@@ -30,5 +30,25 @@ Als hij bij dit blokje aangekomen is ziet de personlogic dat en geeft hij een ni
 ```
 
 - pva verbeteren
+
+![](../Resources/PVA_Score.png)
+```
+een ondertitel
+opdrachtgever enzo klopt niet
+
+resultaat moet alleen het eindresultaat zijn
+tussenresultaten geschijden houden
+
+project activiteiten moet je zelf ook dingen verzinnen
+letten op de fases van grid
+let op werkwoorden (uitbreiden)
+
+planning moet overheen 100% komen met de rest van het PVA
+
+kosten en baten moeten we de opbrengst ook noteren
+
+risico moeten ook maatregelen bij
+Stakeholders helemaal fout
+```
 - comments en refactoring van de map code
 - volledige refactor van mijn reflectie
