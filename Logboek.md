@@ -1,4 +1,6 @@
-## Logboek
+## Logboek van Rik Vos
+
+Hier kan u lezen per datum wat ik gedaan heb en in welk tijdsbestek ik dat gedaan heb.
 
 | datum      | tijd | beschrijving                                                                                                                                                                                                                                  | begintijd | eindtijd |
 |:-----------|:-----|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------|:---------|
@@ -14,4 +16,4 @@
 | 09-03-2020 | 4    | klassendiagram geupdate naar nieuwste stable version, ik kwam er achter dat bij de vorige versies ik vergeten was de klasse viual tab te implementeren                                                                                        | 8:45      | 13:45    |
 | 09-03-2020 | 3    | werken aan het maken van de distance map klassen diagram en dan de code                                                                                                                                                                       | 13:45     | 16:00    |
 | 10-03-2020 | 6    | arne en ik hebben het laden van de map volledig revamped omdat we eerder maar een layer konden laden en een spritesheet en nu kunnen we meerdere layers laden en meerdere sprite sheets zolang. ook kunnen we nu niet vierkante mappen laden. | 10:20     | 15:00    |
-| 16-03-2020 | 6    | vergadering gehad en erna bezig gegaan met alle code refactoren, het pva verbeteren en een sequence diagram maken voor de npc targeting                                                                                                       | 9:30      | 16:00
+| 16-03-2020 | 7    | vergadering gehad en erna bezig gegaan met alle code refactoren, het pva verbeteren en een sequence diagram maken voor de npc targeting. Ook heb ik de eigenopdracht helemaal gerefactored.                                                                                                       | 9:30      | 17:00
