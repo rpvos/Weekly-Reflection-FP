@@ -16,6 +16,6 @@ werken richting het einde van de dag ook na meermaals zeggen van Arne.
 #### mijn bijdrage
 
 - klassendiagram voor de map loader gemaaakt
-  ![](Resources/TiledMap_Module_Class_Diagram.jpg)
+  ![](../Resources/TiledMap_Module_Class_Diagram.jpg)
 - code geschreven met arne om de map te laden en dit werkt volledig
   volgens het klasse diagram

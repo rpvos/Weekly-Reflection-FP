@@ -16,5 +16,5 @@ klassen van de agenda module gemaakt samen met jarne. Als laatste hebben
 arne en ik een systeem gemaakt voor het opslaan van de agenda.
 Jammergenoeg is het niet gelukt ze op te slaan in json format maar wel
 in objectIO format in een .txt bestand.
-![Klassen diagram week 2](Resources/klassenDiagram_week2.png "Klassen
+![Klassen diagram week 2](../Resources/klassenDiagram_week2.png "Klassen
 diagram week 2")
