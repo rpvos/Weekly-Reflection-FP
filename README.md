@@ -8,7 +8,7 @@ hieronder ziet u kopjes met hyperlinks naar deze onderwerpen.
 
 [Logboek](Logboek.md)
 
-[Stelling](stelling.md)
+[Stelling](Stelling.md)
 
 [Applicaties die gebruik maken van JSON](JsonApplicaties.md)
 
