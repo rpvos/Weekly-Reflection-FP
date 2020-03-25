@@ -24,6 +24,7 @@ Hij spawnd ze allemaal bij de ingang
 In PersonLogic een private final double gemaakt genaamd speed multiplyer en die wordt bij de initialisatie gegeven tussen de 0.8 en 1.2
 ```
 - pulse van de klok elke 30 minuten in de simulator tijd
+- Plan van Aanpak verbeterd
 ```
-
+alles wat in de laatste versie in geel staat heb ik gedaan
 ```
