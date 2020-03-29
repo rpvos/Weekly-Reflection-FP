@@ -28,3 +28,5 @@ In PersonLogic een private final double gemaakt genaamd speed multiplyer en die 
 ```
 alles wat in de laatste versie in geel staat heb ik gedaan
 ```
+- Pinkpop schedule vertaald naar onze agenda module
+- de stelling en Json applicaties uitgewerkt
