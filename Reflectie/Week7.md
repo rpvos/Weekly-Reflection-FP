@@ -33,7 +33,6 @@ Als hij bij dit blokje aangekomen is ziet de personlogic dat en geeft hij een ni
 
 ![](../Resources/PVA_Score.png)
 ```
-Ik wil de PVA verbeteren want ik zou graag mijn P cumlaude halen en dat betekent geen cijfers onder de 7.
 Hieronder staat een lijst met verbeterpunten die we gekregen hebben in het gesprek met genevieve.
 
 een ondertitel

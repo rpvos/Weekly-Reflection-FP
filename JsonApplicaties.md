@@ -11,3 +11,9 @@ De volgende programmas op mijn computer hebben een file die Json in de naam heef
 - Tiled
 - Paint.net
 - intelij
+
+## Waarom wordt het Json format gebruikt.
+
+Json format is bedoeld voor het versturen van open data.
+Eerst werd er vaak gebruik gemaakt van XML(eXtensible Markup Language).
+Maar na dat Json uitkwam met zijn snellere en minder woorden format schakelden veel bedrijven over.

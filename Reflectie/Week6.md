@@ -16,7 +16,7 @@ geschud.
   ![09-03-2020](../Resources/Planner_Module_Class_Diagram.jpg)
 - klassendiagram gemaakt voor de disctancemap
 
-  ![09-03-2020](../Resources/SimulatorLogic_Class_Diagram.jpg)
+  ![09-03-2020](../Resources/SimulatorLogic_Class_Diagram-old.jpg)
 - veel code rond om het map inladen gemaakt. hierin hebben we meerdere
   lagen laden en meerdere spritesheets laden gemaakt.
 - geupdate klassendiagram na de updates rondom het inladen

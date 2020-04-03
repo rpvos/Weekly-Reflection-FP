@@ -12,3 +12,5 @@ hieronder ziet u kopjes met hyperlinks naar deze onderwerpen.
 
 [Applicaties die gebruik maken van JSON](JsonApplicaties.md)
 
+Hieronder staat de link naar deze github:
+https://github.com/rpvos/Weekly-Reflection-FP
