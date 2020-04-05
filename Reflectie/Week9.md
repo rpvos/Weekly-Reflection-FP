@@ -4,6 +4,9 @@
 
 Erwin Ralf en Arne hebben verder gewerkt aan de applicatie, buggs gefixt en code opgeschoond.
 Ik heb aan de presentatie gewerkt en klassendiagrammen van de applicatie gemaakt.
+Hierna heb ik het despawnen van de NPCs gemaakt zodat ze niet meer links bovenin vast komen te zitten.
+We hebben alles samen doorgenomen en de map nog iets verbeterd.
+Daarna hebben we de tekst samen doorgenomen.
 
 
 #### mijn bijdrage
@@ -35,3 +38,7 @@ Ik heb aan de presentatie gewerkt en klassendiagrammen van de applicatie gemaakt
 - invullen van slides
 
 - savefile verbeterd dat de desciptions ook kloppen
+
+- despawnen NPCs gemaakt
+
+- tekst in getypt voor de presentatie
